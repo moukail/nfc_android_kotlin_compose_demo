@@ -1,0 +1,93 @@
+[
+  {
+    "manufacturer": "NXP",
+    "product": "MIFARE Classic 1K",
+    "atqa": "0x0004",
+    "sak": "0x08",
+    "ats": null
+  },
+  {
+    "manufacturer": "NXP",
+    "product": "MIFARE Classic 4K",
+    "atqa": "0x0042",
+    "sak": "0x18",
+    "ats": null
+  },
+  {
+    "manufacturer": "NXP",
+    "product": "MIFARE Ultralight",
+    "atqa": "0x0044",
+    "sak": "0x00",
+    "ats": null
+  },
+  {
+    "manufacturer": "NXP",
+    "product": "MIFARE DESFire EV1",
+    "atqa": "0x0344",
+    "sak": "0x20",
+    "ats": "0x75 0x77 0x81 0x02"
+  },
+  {
+    "manufacturer": "NXP",
+    "product": "MIFARE DESFire EV2",
+    "atqa": "0x0344",
+    "sak": "0x20",
+    "ats": "0x75 0x77 0x81 0x02 0x80"
+  },
+  {
+    "manufacturer": "NXP",
+    "product": "MIFARE Plus SL1",
+    "atqa": "0x0344",
+    "sak": "0x20",
+    "ats": null
+  },
+  {
+    "manufacturer": "NXP",
+    "product": "MIFARE Plus SL3",
+    "atqa": "0x0344",
+    "sak": "0x20",
+    "ats": "0x75 0x77 0x81"
+  },
+  {
+    "manufacturer": "NXP",
+    "product": "NFC Forum Type 2 Tag",
+    "atqa": "0x0044",
+    "sak": "0x00",
+    "ats": null
+  },
+  {
+    "manufacturer": "STMicroelectronics",
+    "product": "ST25TA",
+    "atqa": "0x0044",
+    "sak": "0x00",
+    "ats": null
+  },
+  {
+    "manufacturer": "Sony",
+    "product": "FeliCa (Type A)",
+    "atqa": "0x0800",
+    "sak": "0x20",
+    "ats": "0x75 0x77 0x80"
+  },
+  {
+    "manufacturer": "Calypso",
+    "product": "Calypso Transport Card",
+    "atqa": "0x0800",
+    "sak": "0x20",
+    "ats": null
+  },
+  {
+    "manufacturer": "Infineon",
+    "product": "my-d move",
+    "atqa": "0x0044",
+    "sak": "0x00",
+    "ats": null
+  },
+  {
+    "manufacturer": "NXP",
+    "product": "JCOP Card",
+    "atqa": "0x3F00",
+    "sak": "0x28",
+    "ats": "0x75 0x77 0x81 0x02 0x80"
+  }
+]
